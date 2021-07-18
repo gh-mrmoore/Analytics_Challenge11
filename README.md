@@ -7,7 +7,7 @@ The dataset provided lists reports of unidentified flying objects across the Uni
 By modifying the filter critera "Date," "City," "State," "Country," or "Shape," the user can check results for various combinations of criteria for review and analysis.
 
 ### Image 1: Filter By Date and Shape
-<img src="https://github.com/gh-mrmoore/Analytics_Challenge11/blob/main/static/images/img1_filter_by_date_and_shape.png" alt="Filter by Date and Shape" />
+<img src="https://github.com/gh-mrmoore/Analytics_Challenge11/blob/main/static/images/img1_filter_by_date_shape.png" alt="Filter by Date and Shape" />
 
 ### Image 2: Filter By Date
 <img src="https://github.com/gh-mrmoore/Analytics_Challenge11/blob/main/static/images/img2_filter_by_date.png" alt="Filter by Date" />
